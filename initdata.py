@@ -5,3 +5,4 @@
 # Site        : 
 # File Name   : initdata.py
 
+print('Hello World!')
